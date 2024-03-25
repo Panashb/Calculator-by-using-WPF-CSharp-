@@ -40,7 +40,7 @@ License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Author:
-Ashish Bhosle - [Your GitHub Profile](https://github.com/your_username)
+Ashish Bhosle - [[Your GitHub Profile](https://github.com/your_username)](https://github.com/Panashb)
 
 Acknowledgments:
 - This project was inspired by the need for a simple and efficient calculator application for Windows users.
